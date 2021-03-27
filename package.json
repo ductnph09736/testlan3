@@ -1,0 +1,11 @@
+{
+  "name": "testlan3",
+  "version": "1.0.0",
+  "description": "hihi",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "NGOC DUC",
+  "license": "ISC"
+}
